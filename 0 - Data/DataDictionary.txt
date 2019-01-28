@@ -1,0 +1,63 @@
+################## DATA DICTIONARY - TREADLESS ############################
+
+
+Emotion:
+P - Positive
+N - Negative
+
+
+Emotional_strength:
+H - High
+M - Medium
+L - Low
+
+
+Theme:
+C - Concrete
+A - Abstract
+M - Mixture of Concrete and Abstract
+
+
+(Same key for 4 columns)
+Background_color_all/Major_Background_color/Design_color_all/Major_Design_color:
+1 - White
+2 - Grey
+3 - Black
+4 - Red
+5 - Yellow
+6 - Blue
+7 - Green
+8 - Purple/Violet
+9 - Brown
+10- Orange
+11- Colorful
+12- Pink
+
+
+Design_contrast_color:
+1 - Weak
+2 - Gradual
+3 - Strong
+
+
+Graphics/Major_Graphics:
+1	Rectangular
+2	Oval
+3	Circle
+4	Triangle
+5	Trapezoid
+6	Parallelogram
+7	Heart
+8	Star
+9	Cylinder
+10	Cuboid
+11	Cone
+12	Pie
+13	Ball
+14	Half Circle
+15	Crescent
+16	Drop 
+17	Leaf
+18	Multiedge shape
+19	cross
+
